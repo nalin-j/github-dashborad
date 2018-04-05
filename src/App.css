@@ -1,0 +1,124 @@
+.App {
+  text-align:10px;
+}
+
+.App-logo {
+  height: 45px;
+}
+
+.App-header {
+  background-color: #000000;
+  height: 30px;
+  padding: 20px;
+  color: white;
+  width: 100%;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.App-title {
+  font-size: 28px;
+  color: white;
+  margin-top: 0px;
+  margin-right: 80%;
+  margin-left: 0%;
+  width: 100%;
+
+}
+
+.App-intro {
+  font-size: large;
+  color: #FF0000;
+}
+
+.tile-header {
+  background-color: #000000;
+  height: 20px;
+  padding: 100px;
+  color: black;
+  border: 10px;
+
+}
+
+.intro {
+  font-size:22px;
+  color: #999999;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+
+
+}
+
+.App-header1 {
+  background-color: #333333;
+  height: 180px;
+  padding:  0px;
+  color: white;
+  width:100% ;
+}
+
+.card {
+  background-color: #aaaaaa;
+  height: 60px;
+  width: 200px;
+  padding: 10px;
+  color: black;
+  border-radius: 30px;
+  align-self: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 15%;
+  font-size: 48px;
+  font-weight: bold;
+
+
+}
+
+.image{
+  margin-left: 30%;
+}
+.cardheader1{
+  margin-left:15%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.cardheader2{
+  margin-left:20%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.text{
+  margin-bottom: 100px;
+}
+.footer{
+  background-color: #26a4d3;
+  height: 20px;
+  padding: 50px;
+  color: white;
+  border: 10px;
+
+}
+
+.tab{
+  text-align: left;
+  margin-bottom: 0px;
+  margin-top :0px;
+}
+
+.tableClass{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.page{
+  width: 100%;
+}
+
+.topic{
+  margin-left: 0%;
+  font-size: 1.5em;
+  alignment: center;
+}
